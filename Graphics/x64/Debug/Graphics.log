@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Works C++\Graphics\Graphics\main.cpp(77,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Works C++\Graphics\Graphics\main.cpp(77,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Works C++\Graphics\Graphics\main.cpp(133,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Works C++\Graphics\Graphics\main.cpp(133,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Works C++\Graphics\Graphics\main.cpp(133,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Works C++\Graphics\Graphics\main.cpp(133,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Graphics.vcxproj -> D:\Works C++\Graphics\x64\Debug\Graphics.exe
